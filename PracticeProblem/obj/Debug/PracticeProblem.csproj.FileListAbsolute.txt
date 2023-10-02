@@ -1,0 +1,8 @@
+H:\RFP296\PracticeProblem\PracticeProblem\bin\Debug\PracticeProblem.exe.config
+H:\RFP296\PracticeProblem\PracticeProblem\bin\Debug\PracticeProblem.exe
+H:\RFP296\PracticeProblem\PracticeProblem\bin\Debug\PracticeProblem.pdb
+H:\RFP296\PracticeProblem\PracticeProblem\obj\Debug\PracticeProblem.csproj.AssemblyReference.cache
+H:\RFP296\PracticeProblem\PracticeProblem\obj\Debug\PracticeProblem.csproj.SuggestedBindingRedirects.cache
+H:\RFP296\PracticeProblem\PracticeProblem\obj\Debug\PracticeProblem.csproj.CoreCompileInputs.cache
+H:\RFP296\PracticeProblem\PracticeProblem\obj\Debug\PracticeProblem.exe
+H:\RFP296\PracticeProblem\PracticeProblem\obj\Debug\PracticeProblem.pdb
