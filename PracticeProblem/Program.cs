@@ -54,7 +54,7 @@ namespace PracticeProblem
                         isRunning = false;
                         break;
                     default:
-                        Console.WriteLine("Try again : ---");
+                        Console.WriteLine("Try again : ----");
                         break;
                 }
             }
